@@ -1,0 +1,6 @@
+# .gitingnore
+.env
+__pycache__/
+*.pyc
+myenv/
+.streamlit/secrets.toml

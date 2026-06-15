@@ -1,0 +1,10 @@
+youtube-transcript-api
+streamlit
+google-genai
+google-generativeai
+Pillow
+python-dotenv
+gTTS
+langchain
+langchain-text-splitters
+langchain-google-genai
